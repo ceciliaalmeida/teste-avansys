@@ -35,3 +35,5 @@
  - Reaproveitamento de código
  - Solução do Problema proposto
  - Melhores práticas de desenvolvimento
+
+## Arquitetura utilizada para dev
